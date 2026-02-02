@@ -6,7 +6,7 @@
     <title>Progetti PHP</title>
 </head>
 <body>
-    <h1>Elenco Progetti PHP</h1>
+    <h1>Elenco Progetti PHP di Vismara Emanuele</h1>
     <ul>
         <li><a href="ES01-HelloPhp/">ES01 - HelloPhp</a></li>
         <li><a href="ES02-Variabili/">ES02 - Variabili</a></li>
